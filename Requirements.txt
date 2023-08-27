@@ -1,4 +1,4 @@
-Flask
-scikit-learn
-numpy
-pickle
+Flask==2.3.2
+scikit-learn==1.1.2
+numpy==1.23.3
+pickle5
